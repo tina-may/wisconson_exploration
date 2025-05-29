@@ -11,6 +11,8 @@ To run, place data csv's in the data directory
 2. **`callcenterdatahistorical.csv`** – Historical call records  
 
 ## **Plots**  
+![output](https://github.com/user-attachments/assets/9794eb94-86f6-42ea-80d1-bc18c3017b0e)
+
 Each plot shows the call frequencies for each zipcode within a category. City planners can use this information to allocate appropriate resources to these areas
 
 ## **Future Work** 
