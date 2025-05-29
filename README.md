@@ -1,4 +1,4 @@
-create readme documentation for notebook called data exploration. it loads the call data and classifies all calls by complaint type via regex keyword search. it also extracts all available zipcodes from cal# Data Exploration Notebook: Call Center Data Analysis  
+# Data Exploration Notebook: Call Center Data Analysis  
 
 ## Overview  
 This notebook performs an exploratory analysis of call center data, classifying complaints by type using **regex keyword matching** and extracting ZIP codes from location descriptions. It then visualizes the frequency of complaint types across different ZIP codes.  
